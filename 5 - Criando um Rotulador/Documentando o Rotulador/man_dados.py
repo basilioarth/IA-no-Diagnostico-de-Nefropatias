@@ -1,5 +1,4 @@
 import pandas as pd 
-import numpy as np
 
 # Classe ReadData
 # Recebe o caminho do arquivo csv já agrupado

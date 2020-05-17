@@ -1,6 +1,5 @@
 import numpy as np
 from sklearn.neural_network import MLPClassifier as mlp
-from sklearn.tree import DecisionTreeClassifier as tree
 from sklearn.model_selection import train_test_split
 
 class classificador(object):
