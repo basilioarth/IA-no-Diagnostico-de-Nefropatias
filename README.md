@@ -23,5 +23,6 @@
     testes relevantes com cada um deles.
 
     5 - Testes Para a Criação do Rotulador
-        Essa pasta é destinada para o entendimento do funcionamento do rotulador que será utilizado no projeto. Até o memento, apenas um aquivo foi
-    criado e o mesmo tem o objetivo puramente de auxiliar na compreensão das especificidades do rotulador em estudo. 
+        Essa pasta é destinada para o entendimento do funcionamento do rotulador que será utilizado no projeto. Até o memento, um aquivo foi
+    criado com o objetivo de auxiliar na compreensão das especificidades do rotulador em estudo. Além disso, o próprio código do rotulador disponibilizado
+    está sendo documentado. 
