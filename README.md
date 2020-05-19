@@ -22,7 +22,7 @@
         Nessa etapa temos uma série de arquivos, cada um deles destinado a aplicação dos algoritmos escolhidos, bem como para a realização de alguns 
     testes relevantes com cada um deles.
 
-    5 - Testes Para a Criação do Rotulador
-        Essa pasta é destinada para o entendimento do funcionamento do rotulador que será utilizado no projeto. Até o memento, um aquivo foi
+    5 - Criando um Rotulador
+        Essa pasta é destinada para o entendimento do funcionamento do rotulador que será utilizado no projeto. Até o momento, um aquivo foi
     criado com o objetivo de auxiliar na compreensão das especificidades do rotulador em estudo. Além disso, o próprio código do rotulador disponibilizado
-    está sendo documentado. 
+    foi documentado e um programa com um rotulador próprio está sendo desenvolvido.  
