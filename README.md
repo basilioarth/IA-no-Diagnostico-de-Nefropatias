@@ -1,6 +1,7 @@
-# IA-no-Diagnostico-de-Nefropatias
+# :mortar_board: IA-no-Diagnostico-de-Nefropatias
 { Estudo e implementação de algoritmos de agrupamento e de rotulação aplicados no diagnóstico de nefropatias por imagens de patologias renais }
 
+# :computer: Programas
         O projeto em questão se trata de um PIBIC do Laboratório de Inteligência Artifical, ocorrendo entre 01/08/2019 e 31/07/2020, ofertado pela
     Universidado Federal do Piauí. A ideia principal do projeto é o estudo e avaliação dos algoritmos de aprendizagem de máquina não supervisionados e algoritmos de rotulação para o desenvolvimento de processos de Descoberta de Conhecimento em Base de Dados (DCBD) em padrões em imagens de doenças renais.
         O objetivo do repositório é registrar o progresso do projeto de pesquisa. Aqui vão algumas explicações básicas sobre cada uma das pastas principais
