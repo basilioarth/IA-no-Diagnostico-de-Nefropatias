@@ -1,5 +1,5 @@
 # :mortar_board: IA-no-Diagnostico-de-Nefropatias
-{ Estudo e implementação de algoritmos de agrupamento e de rotulação aplicados no diagnóstico de nefropatias por imagens de patologias renais }
+Estudo e implementação de algoritmos de agrupamento e de rotulação aplicados no diagnóstico de nefropatias por imagens de patologias renais
 
 # :computer: Programas
         O projeto em questão se trata de um PIBIC do Laboratório de Inteligência Artifical, ocorrendo entre 01/08/2019 e 31/07/2020, ofertado pela
